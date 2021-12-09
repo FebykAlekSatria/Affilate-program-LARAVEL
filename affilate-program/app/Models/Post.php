@@ -73,24 +73,16 @@ class Post
                     "body" => "Bahan kulit sintetis (PU leather) tas ini nampak elegan dan memiliki kesan yang cukup mahal, tetapi anda cuku waspada karena tas tergolong sedikit kecil hanya bisa muat laptop 14 inch / macbook 15 inch. Tas hanya tersedia satu warna hitam mengkilat saja, memiliki kelengkapan seperti 2 kompartemen depan dengan resleting, 1 kompartemen utama, dan 2 kantong samping."
                 ],
                 [
-                    "title" => "Tas multifungsi Handbag totebag Jinjing Segitiga Sling Bag - 55.000",
-                    "link" => "https://shp.ee/atbsvk5",
-                    "image" => "https://cf.shopee.co.id/file/73cb5e5e175dc1ac1682e669386d5ee1",
-                    "body" => "Handbag fashionable dengan warna yang sangat elegan membuat terlihat semakin fashionable, bentuk yang unik akan memberikan kesan berbeda kepada anda, tas yang sangat lucu ini layakuntuk anda miliki. Tas memili 3 varian warna yaitu hitam, biru dan pink. Tas memiliki bahan Polyester."
+                    "title" => "Martin Versa SL1 EVOX  - 159.000",
+                    "link" => "https://shp.ee/dak9wi5",
+                    "image" => "https://cf.shopee.co.id/file/c3377a9348c3a2d4da04210711cb4e79",
+                    "body" => "Tas berbahan kanvas bisa memuat laptop atau macbook cocok untuk pekerja kantoran, kuliah, atau sekolah. Spesifikasi tas ini memiliki ukuran : 38 x 27 x 9 cm berat : 800 gram,  ukuran tali selempang : 127 x 3,5 cm (terdapat penahan empuk untuk di bahu), tersedia 3 warna : hitam, abu-abu, dan biru. Penutup kantung menggunakan pengunci plastic, di depan kantung resleting kedua terdapat slot resleting diagonal. Kantung resleting kedua di bagian dalam bisa memuat tab, ipad, tempat alat tulis, power bank, bold, chargeran laptop, buku agenda, dll. Kantung utama seleting bisa muat baju, camera slr, payung kecil, laptop 15 inchi/macbook (tetapi tidak ada slot khusus) buku besar, headphone, paspor, dompet, tab, ipad, dll. Di dalam kantung utama terdapat 3 slot yag bisa memuat kabel usb, earplugged, buku note kecil, pulpen, dll. Tas ini cocok untuk pekerja kantoran, anak kuliah, anak SMA."
                 ],
                 [
-                    "title" => "MINISO Tas Bahu Shoulder - 76.700",
-                    "link" => "https://shp.ee/j7mq4sm",
-                    "image" => "https://cf.shopee.co.id/file/27ea0b77aa8e25c5199529bb8075795f",
-                    "body" => "Jika kamu ingin memiliki tas yang bentuknya standar maka kamu wajib pertimbangkan tas ini, tas dengan bentuk sederhan memiliki ruang penyimpanan yang cuku besar tatapi tetap bagus dilihat.Tas ini terbuat dari bahan kulit dan memiliki 3 varian warna hitam, maron dan cream. "
-                ],
-                [
-                    "title" => "ling Bag Retro VIntage Setengah Lingkaran - 59.900",
-                    "link" => "https://shp.ee/79z4n6m",
-                    "image" => "https://cf.shopee.co.id/file/1199749802f0024fc7d5217f60fae4f2",
-                    "body" => "Tas dengan design yang fashion dan vintage , warna yang ngetrend dan hits akan membuat anda lebih percaya diri.Bahan premium yang halus dan cukup tahan lama.
-                    Desain yang bikin look kamu simple tapi tetep kece.
-                    Cocok untuk pesta/sekolah/perjalanan/kerja/penggunaan sehari-hari."
+                    "title" => "Martinversa Tas TR10 - 162.000",
+                    "link" => "https://shp.ee/bhtr9e5",
+                    "image" => "https://cf.shopee.co.id/file/02a4b3ea6a64f40d720c0b839bec86e9",
+                    "body" => "Berbahan kanvas nylon bahan tebal muat laptop 14 inch. Tas tersedia 3 warna : hitam, abu abu, dan biru dengan ukuran : 40 x 30 x 13 cm - berat : 750 gram dan panjang tali : 92 x 7 cm. Di bagian punggung dan tali ransel dilapisi busa yang empuk dan tebal sehingga nyaman di pakai. Tas ini cocok untuk mahasiswa, pelajar, dan perkerja kantoran. "
                 ]
             ],
 
